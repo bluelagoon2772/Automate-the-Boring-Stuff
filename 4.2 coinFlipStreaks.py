@@ -22,3 +22,4 @@ for experimentNumber in range(10000):
 
 
 print('Chance of streak: %s%%' % (numberofStreaks / 10000))
+ 
